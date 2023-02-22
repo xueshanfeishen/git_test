@@ -1,0 +1,12 @@
+## git添加文件
+git add .
+
+## git 删除工作区的文件
+git rm --cached git_study_log.txt
+
+## git 提交文件
+git commit -m "初始化文件"
+
+## 查看git 的提交记录
+git reflog
+
