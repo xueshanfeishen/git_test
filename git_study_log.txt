@@ -10,3 +10,6 @@ git commit -m "初始化文件"
 ## 查看git 的提交记录
 git reflog
 
+
+## git log的详细日志
+git log
