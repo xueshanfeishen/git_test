@@ -15,3 +15,11 @@ git log
 
 ## git 版本回滚
 git reset --hard 232232
+
+## git 创建分支
+git branch 分支名称
+
+## git 切换分支
+git checkout 分支名称
+
+
