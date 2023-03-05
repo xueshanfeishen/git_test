@@ -31,6 +31,12 @@ git branch -D 分支名称
 ## git 合并分支
 git merge 源分支
 
+## git 本地仓库连接远程仓库
+git remote add origin https://github.com/xueshanfeishen/git_test.git
+
+## git 将本地仓库push到远程仓库
+git push -u origin master
+
 ## git 拉取远程的代码
 git pull
 
