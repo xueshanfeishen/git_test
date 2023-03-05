@@ -36,3 +36,6 @@ git pull
 
 ## git 推送代码到远程仓库
 git push
+
+## 本地覆盖线上仓库
+git push -f origin master
