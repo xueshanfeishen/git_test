@@ -30,3 +30,6 @@ git branch -D 分支名称
 
 ## git 合并分支
 git merge 源分支
+
+## 拉取远程的代码
+git pull
