@@ -22,4 +22,11 @@ git branch 分支名称
 ## git 切换分支
 git checkout 分支名称
 
+## git 删除分支
+git branch -d 分支名称
 
+## git 强制删除分支
+git branch -D 分支名称
+
+## git 合并分支
+git merge 源分支
